@@ -1,2 +1,5 @@
 # understand_the_feelings
-Created with CodeSandbox
+
+a react js project to interpret emoji meaning
+
+understand the feelings and react in right way
